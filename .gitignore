@@ -11,11 +11,15 @@ vendor/
 # Visual Studio Code
 .vscode/
 
-# Runtime and Logging files
-proxy.log 
+# Compiled binaries
+proxy
+proxy-linux
 
-# The nohup log file 
-nohup.out 
+# Runtime and Logging files
+proxy.log
+
+# The nohup log file
+nohup.out
 
 # Any backup or temporary files created by editors
 *~
